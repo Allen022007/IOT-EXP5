@@ -1,6 +1,6 @@
-# NAME:NAVEENKUMAR M
+# NAME:W Allen
 
-# REF NO :24900580
+# REF NO :24900645
 
 # EXP-05 Monitoring-soil-moisture-value-in-Thing-speak-cloud
 
@@ -141,6 +141,8 @@ void loop()
 }
 ~~~
 # CIRCUIT DIAGRAM:
+
+![circuit dig exp3](https://github.com/user-attachments/assets/c91d7128-9b4b-4b56-bf4f-fe36eb6351a9)
 
 # OUTPUT:
 ![Screenshot 2024-12-21![Screenshot 2024-12-21 114132](https://github.com/user-attachments/assets/348148ee-d552-4b75-a4a3-03cdf6dab380)
